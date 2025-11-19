@@ -36,7 +36,7 @@ The app integrates three distinct scanning methods into a single, user-friendly 
 
 | Home Screen | Logo Detection | Ingredient Check |
 |:---:|:---:|:---:|
-| <img src="[https://via.placeholder.com/200x400.png?text=Home+Screen](https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/homepage%20.jpg)" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=YOLO+Detection" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=Ingredient+OCR" width="200" /> |
+| <img src="[https://via.placeholder.com/200x400.png?text=Home+Screen](https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/homepage%20.jpg)" width="200" /> | <img src="[https://via.placeholder.com/200x400.png?text=YOLO+Detection](https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/Logo%20Detection.jpg)" width="200" /> | <img src="https://via.placeholder.com/200x400.png?text=Ingredient+OCR" width="200" /> |
 
 *(Update these image links with actual screenshots from your `assets` folder or imgur links)*
 
