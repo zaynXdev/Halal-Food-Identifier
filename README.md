@@ -74,28 +74,12 @@ halal_vision_app/
 │   │   └── barcode_scan_screen.dart    # Feature 3: Barcode Logic
 │   └── main.dart       # App Entry Point
 └── pubspec.yaml        # Dependencies and Asset definitions
+```
 
 ⚙️ Installation & Setup
 Clone the Repository
 
-```Bash
 
-git clone [https://github.com/YOUR_USERNAME/Halal-Food-Identifier.git](https://github.com/YOUR_USERNAME/Halal-Food-Identifier.git)
-cd Halal-Food-Identifier
-Install Dependencies
-
-Bash
-
-flutter pub get
-Setup Assets Ensure the assets/ folder contains the .tflite model and .json files. (These are included in the repo).
-
-Run the App Connect your Android device (USB Debugging enabled) and run:
-
-Bash
-
-flutter run
-🤖 How It Works (Under the Hood)
-Training: We collected a dataset of Halal logos using Roboflow and trained a YOLOv8 model on Google Colab GPU.
 
 Conversion: The model was exported to .tflite (Float32) for mobile optimization.
 
@@ -118,18 +102,5 @@ Push to the Branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-Developed with ❤️ for the Community.
 
 
----
-
-### 📸 How to add real screenshots (Optional but Recommended)
-
-To make the "App Screenshots" section look real:
-1.  Take screenshots on your phone.
-2.  Move them into your `assets` folder (e.g., named `screen1.jpg`).
-3.  Push them to GitHub.
-4.  In the `README.md` code above, replace the links `https://via.placeholder.com.
