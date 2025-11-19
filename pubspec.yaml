@@ -1,0 +1,42 @@
+name: halal_vision_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0  # Changed to 3.0.0 to ensure compatibility with your installed Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Camera and Vision
+  flutter_vision: ^2.0.0
+  camera: ^0.11.0
+  
+  # OCR
+  google_mlkit_text_recognition: ^0.13.0
+  
+  # Barcode
+  mobile_scanner: ^5.2.0
+  
+  # Utilities
+  permission_handler: ^11.3.0
+  
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/halal_logo_detector.tflite
+    - assets/labels.txt
+    - assets/halal_ingredients_db.json
+    - assets/barcode_status_db.json
