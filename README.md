@@ -36,7 +36,7 @@ The app integrates three distinct scanning methods into a single, user-friendly 
 
 | Home Screen | Logo Detection | Ingredient Check |
 |:---:|:---:|:---:|
-| <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/homepage%20.jpg" width="200" /> | <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/Ingredients%20detection.jpg" width="200" /> | <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/Ingredients%20detection.jpg" width="200" /> |
+| <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/homepage%20.jpg" width="200" /> | <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/Logo%20Detection.jpg" width="200" /> | <img src="https://github.com/zaynXdev/Halal-Food-Identifier/blob/main/Screenshots/Ingredients%20detection.jpg" width="200" /> |
 
 
 
